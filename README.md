@@ -86,3 +86,5 @@ npm start
 ```
 
 Now you can access locally in your browser the address `http://localhost:3000` and see your locations map.
+
+Some more changes I want to make. 
